@@ -3,5 +3,8 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache/
 
+# Obsidian Git — генерируется автоматически на каждой машине
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+
 # macOS
 .DS_Store
